@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**coderXcoded/coderXcoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bright, a Bioinformatics student looking to get into the world of software development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on freecodecamps challenges
+- 🌱 I’m currently learning C++, Javascript, Html and Css.
+- 👯 I’m looking to collaborate on a mobile app.
+- 🤔 I’m looking for help with web and mobile development.
+- feel free to follow me on 
+     twitter @coderXcoded
+     codepen @coderXcoded
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I began my coding journey 3 weeks ago;
+
