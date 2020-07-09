@@ -10,5 +10,5 @@ My name is Bright, a Bioinformatics student looking to get into the world of sof
      twitter @coderXcoded
      codepen @coderXcoded
 
-- ⚡ Fun fact: I began my coding journey 3 weeks ago;
+- ⚡ Fun fact: I began my coding journey on the 16th of June 2020;
 
