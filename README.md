@@ -1,14 +1,14 @@
 Hi there 👋
 
-My name is Bright, a Bioinformatics student looking to get into the world of software development.
+My name is Bright, a  Bioinfomatics Graduate and Fullstack Developer.
 
-- 🔭 I’m currently working on freecodecamps challenges
-- 🌱 I’m currently learning C++, Javascript, Html and Css.
-- 👯 I’m looking to collaborate on a mobile app.
-- 🤔 I’m looking for help with web and mobile development.
-- feel free to follow me on 
-     twitter @coderXcoded
-     codepen @coderXcoded
+- 🔭 I’m currently working as a self employed fullstack Developer
+- 🌱 My primary stack is Java and the Spring Framework.
+- 👯 But as a fully flegged Software Engineer I am able to work with Python, Javascript and C.
+- 🤔 I’m looking to collaborate with like minds on projects that are heading to the moon.
+- feel free to DM me so we could work together on  
+     twitter @TheBrightLonda
+     email brightdev.jobs@gmail.com
 
 - ⚡ Fun fact: I began my coding journey on the 16th of June 2020;
 
