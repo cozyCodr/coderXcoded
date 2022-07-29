@@ -6,7 +6,7 @@ My name is Bright, a  Bioinfomatics Graduate and Fullstack Developer.
 - 🌱 My primary stack is Java and the Spring Framework.
 - 👯 But as a fully flegged Software Engineer I am able to work with Python, Javascript and C.
 - 🤔 I’m looking to collaborate with like minds on projects that are heading to the moon.
-- feel free to DM me so we could work together on: 
+- Feel free to DM me so we could work together on: 
      - twitter @TheBrightLonda
      - email brightdev.jobs@gmail.com
 
