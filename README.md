@@ -5,14 +5,6 @@ My name is Bright, a  Bioinfomatics Graduate and Fullstack Developer. My primary
      - email brightdev.jobs@gmail.com
      
 <div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=cozyCodr&show_icons=true&theme=jolly&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyCodr&langs_count=8&theme=jolly&layout=compact" />
-</a>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=cozyCodr&&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="cozyCodr" />
 <br/>
 
