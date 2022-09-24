@@ -13,9 +13,13 @@ My name is Bright, a  Bioinfomatics Graduate and Fullstack Developer. My primary
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyCodr&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
-<p> 
-  <a href="https://twitter.com/babaspace_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/bright-londa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=cozyCodr&&show_icons=true&locale=en&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="cozyCodr" />
+<br/>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cozyCodr&&theme=github_dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=DD5E31&currStreakNum=C3D1D9&currStreakLabel=1F6FEB&sideNums=C3D1D9&dates=E4E2E2&sideLabels=1F6FEB" alt="cozyCodr" />
+<br/>
+
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyCodr&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="cozyCodr" />
 </div>
 
