@@ -15,3 +15,4 @@ My name is Bright, a  Bioinfomatics Graduate and Fullstack Developer. My primary
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyCodr&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="cozyCodr" />
 </div>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
