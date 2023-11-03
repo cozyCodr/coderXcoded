@@ -1,6 +1,6 @@
 Hi there 👋
 
-Welcome!!! My name is Bright, a  Bioinfomatics Graduate and Fullstack Developer.  I’m looking to collaborate with like minds on projects that are heading to the moon. Feel free to DM me so we could work together on: 
+Welcome!!! I'm Bright, a  Bioinfomatics Graduate, Software Engineer and Full time Human. I'm open to collaborations. You can find me here: 
 </br>
 <p>
 
