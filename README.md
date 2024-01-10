@@ -10,7 +10,7 @@ Welcome!!! I'm Bright, a  Bioinfomatics Graduate, Software Engineer and Full tim
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cozyCodr?theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cozyCodr)](https://git.io/streak-stats)
 <br/>
 
 <p align="center">
