@@ -9,10 +9,6 @@ Welcome!!! I'm Bright, a  Bioinfomatics Graduate, Software Engineer and Full tim
 
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cozyCodr)](https://git.io/streak-stats)
-<br/>
-
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyCodr&&theme=github_dark&hide_border=true&stroke=58A6FF&langs_count=8&layout=compact" alt="cozyCodr" />
 </div>
