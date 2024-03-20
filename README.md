@@ -5,7 +5,7 @@ Welcome!!! I'm Bright, a  Bioinfomatics Graduate, Software Engineer and Full tim
 <p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-bright-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bright-londa)](https://www.linkedin.com/in/bright-londa/)
-[![Twitter](https://img.shields.io/badge/Babaspace-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/babaspace_)](https://www.twitter.com/babaspace_)
+[![Twitter](https://img.shields.io/badge/Londa-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/cre8tor_)](https://www.twitter.com/_cre8tor_)
 
 </p>
 
